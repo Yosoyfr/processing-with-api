@@ -1,0 +1,18 @@
+{
+	"name": "acet1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"mongodb": "^4.1.0",
+		"serialport": "^9.2.0"
+	}
+}
